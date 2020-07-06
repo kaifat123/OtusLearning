@@ -1,0 +1,24 @@
+2020-07-06 21:30:37,296 INFO SampleTests [main] Info log
+2020-07-06 21:30:37,297 FATAL SampleTests [main] Fatal log
+2020-07-06 21:30:37,297 ERROR SampleTests [main] Erroe log
+2020-07-06 21:32:26,886 INFO SampleTests [main] Info log
+2020-07-06 21:32:26,887 WARN SampleTests [main] Warn log
+2020-07-06 21:32:26,887 FATAL SampleTests [main] Fatal log
+2020-07-06 21:32:26,887 ERROR SampleTests [main] Error log
+2020-07-06 21:32:54,335 INFO SampleTests [main] Info log
+2020-07-06 21:32:54,337 WARN SampleTests [main] Warn log
+2020-07-06 21:32:54,337 FATAL SampleTests [main] Fatal log
+2020-07-06 21:32:54,337 ERROR SampleTests [main] Error log
+2020-07-06 21:34:15,555 INFO SampleTests [main] Info log
+2020-07-06 21:34:15,556 WARN SampleTests [main] Warn log
+2020-07-06 21:34:15,557 DEBUG SampleTests [main] Debug log
+2020-07-06 21:34:15,557 FATAL SampleTests [main] Fatal log
+2020-07-06 21:34:15,557 ERROR SampleTests [main] Error log
+2020-07-06 21:47:23,783 INFO SampleTests [main] Драйвер поднят
+2020-07-06 21:47:27,018 INFO SampleTests [main] Открыта страница отус
+2020-07-06 21:47:27,923 INFO SampleTests [main] Драйвер поднят
+2020-07-06 21:47:27,924 INFO SampleTests [main] Info log
+2020-07-06 21:47:27,924 WARN SampleTests [main] Warn log
+2020-07-06 21:47:27,924 DEBUG SampleTests [main] Debug log
+2020-07-06 21:47:27,924 FATAL SampleTests [main] Fatal log
+2020-07-06 21:47:27,924 ERROR SampleTests [main] Error log

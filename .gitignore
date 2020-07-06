@@ -1,0 +1,4 @@
+# Project exclude paths
+/JUnit/target/
+/model/target/
+/target/
