@@ -49,3 +49,26 @@
 2020-07-06 22:27:23,171 INFO SampleTests [main] Драйвер поднят
 2020-07-06 22:27:26,198 INFO SampleTests [main] Открыта страница https://otus.ru/
 2020-07-06 22:27:26,295 INFO SampleTests [main] Закрытие браузера
+2020-07-06 22:38:03,204 INFO SampleTests [main] Драйвер поднят
+2020-07-06 22:38:05,229 INFO SampleTests [main] Открыта страница https://otus.ru/
+2020-07-06 22:38:05,321 INFO SampleTests [main] Закрытие браузера
+2020-07-06 22:38:06,136 INFO SampleTests [main] Драйвер поднят
+2020-07-06 22:38:06,218 INFO SampleTests [main] Закрытие браузера
+2020-07-06 22:39:41,191 INFO SampleTests [main] Драйвер поднят
+2020-07-06 22:39:43,162 INFO SampleTests [main] Открыта страница https://otus.ru/
+2020-07-06 22:39:43,259 INFO SampleTests [main] Закрытие браузера
+2020-07-06 22:39:54,020 INFO SampleTests [main] Драйвер поднят
+2020-07-06 22:39:55,273 INFO SampleTests [main] Открыта страница https://otus.ru/
+2020-07-06 22:39:55,390 INFO SampleTests [main] Закрытие браузера
+2020-07-06 22:44:42,387 INFO SampleTests [main] Драйвер поднят
+2020-07-06 22:44:44,332 INFO SampleTests [main] Открыта страница https://otus.ru/
+2020-07-06 22:44:44,428 INFO SampleTests [main] Закрытие браузера
+2020-07-06 22:45:36,151 INFO SampleTests [main] Драйвер поднят
+2020-07-06 22:45:38,500 INFO SampleTests [main] Открыта страница https://otus.ru/
+2020-07-06 22:45:38,599 INFO SampleTests [main] Закрытие браузера
+2020-07-06 22:45:52,297 INFO SampleTests [main] Драйвер поднят
+2020-07-06 22:45:54,747 INFO SampleTests [main] Открыта страница https://otus.ru/
+2020-07-06 22:45:54,847 INFO SampleTests [main] Закрытие браузера
+2020-07-06 22:49:32,062 INFO SampleTests [main] Драйвер поднят
+2020-07-06 22:49:34,048 INFO SampleTests [main] Открыта страница https://otus.ru/
+2020-07-06 22:49:34,143 INFO SampleTests [main] Закрытие браузера
